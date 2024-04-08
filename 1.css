@@ -1,0 +1,77 @@
+body{
+
+  text-align : center;
+  
+  background-color: rgb(239, 243, 247);
+
+  font-family: Monospace;
+ 
+}
+
+.green{
+
+   
+    margin: 10px;
+    height:100px;
+    width:100px;
+    background:rgb(133, 235, 133);
+    display: flex;
+    
+}
+
+.blue{
+
+    
+    margin: 10px;
+    height:100px;
+    width:100px;
+    background:rgb(90, 79, 239);
+    display: flex;
+    
+}
+
+
+.red{
+
+    
+    margin: 10px;
+    height:100px;
+    width:100px;
+    background:rgb(225, 70, 70);
+    display: flex;
+    
+}
+
+.yellow{
+
+    
+    margin: 10px;
+    height:100px;
+    width:100px;
+    background-color:rgb(221, 234, 111);
+    display: flex;
+    
+}
+
+.box1{
+
+display: flex;
+justify-content: center;
+}
+.box2{
+
+display: flex;
+
+justify-content: center;
+}
+
+.start{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+button{
+
+    font-family: sans-serif ;
+}
+
